@@ -1,4 +1,4 @@
-# Mackintosh-Surfacr-Laptop-Go-Catalina
+# Surfacr-Laptop-Go-Catalina-EFI
 Hackintish EFI
 
 ## First，check the SSD Model
